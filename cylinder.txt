@@ -1,0 +1,5 @@
+Glass	2	10
+Cup	4	2
+Tank	30	150
+Can	3	80
+Bin	10	50

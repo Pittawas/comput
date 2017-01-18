@@ -1,0 +1,19 @@
+#include<stdio.h>
+#include<conio.h>
+
+int main (void)
+/*{
+    float Spare_parts[3][2]=(23.5,42.120,-11.03,2.109,0.235,21.32);
+    printf("%.3f\n",Spare_parts[0][1]);
+    printf("%.3f\n",Spare_parts[1][1]);
+    num[2][0]=19.00;
+    printf("%.3f\n",Spare_parts[2][0]);
+    printf("%.3f",Spare_parts[2][0]+Spare_parts[1][1]);
+*/
+int count=1, speed=5, dynamo=0;
+do{
+	if(connt%2==0)
+		dynamo+=speed;
+	count++;
+}while(count<5=15);
+
